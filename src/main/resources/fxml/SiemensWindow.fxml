@@ -34,7 +34,7 @@
                         <Font size="18.0" />
                      </font>
                   </Label>
-                  <TextField fx:id="ipAddress" prefHeight="36.0" prefWidth="220.0" promptText="PLC的IP地址" text="192.168.0.1">
+                  <TextField fx:id="ipAddress" prefHeight="36.0" prefWidth="220.0" promptText="PLC的IP地址" text="192.168.3.20">
                      <font>
                         <Font size="18.0" />
                      </font>
